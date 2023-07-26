@@ -1,0 +1,32 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+  background-color: grey;
+}
+th{
+  color: aqua;
+}
+td{
+  color: cadetblue;
+}
+#Defination {
+  color: blanchedalmond;
+}
+table{
+  color: burlywood;
+}
+#half{
+  background-color: aliceblue;
+}
