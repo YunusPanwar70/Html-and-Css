@@ -1,0 +1,14 @@
+/* body{
+    background-color: lightgreen;
+}*/
+
+p{
+    color: white;
+} 
+
+body {
+    background-image: url(../img/facebook.jpeg);
+    background-repeat: no-repeat;
+    /* background-position: 10px 15px; */
+    background-attachment: fixed;
+}

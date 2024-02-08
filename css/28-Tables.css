@@ -1,0 +1,15 @@
+table {
+    border: 2px solid black;
+}
+
+tr {
+    background-color: orange;
+}
+
+th {
+    color: white;
+}
+
+td {
+    border: 5px solid green;
+}

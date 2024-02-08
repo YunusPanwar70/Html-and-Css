@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align-last: left;
+    letter-spacing: 10px;
+    word-spacing: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
