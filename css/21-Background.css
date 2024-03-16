@@ -1,6 +1,6 @@
-/* body{
+body{
     background-color: lightgreen;
-}*/
+}
 
 p{
     color: white;
@@ -9,6 +9,6 @@ p{
 body {
     background-image: url(../img/facebook.jpeg);
     background-repeat: no-repeat;
-    /* background-position: 10px 15px; */
+    background-position: 10px 15px;
     background-attachment: fixed;
 }
